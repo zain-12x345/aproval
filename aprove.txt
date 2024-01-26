@@ -1,5 +1,5 @@
 8-physical-16-logical-unameresultsystem=Windows-node=DESKTOP-VA3HTQS-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64AMD64-Family-23-Model-96-Stepping-1-AuthenticAMD
- 1-physical-2-logical-unameresultsystem=Windows-node=haseeb-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64AMD64-Family-25-Model-1-Stepping-1-AuthenticAMD
+ 
 4-physical-4-logical-unameresultsystem=Windows-node=AJEET-PC-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
 4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-QBDE7PT-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
 Secrect: 1-physical-2-logical-unameresultsystem=Windows-node=MyVm2-release=10-version=10.0.20348-machine=AMD64Windows-10-10.0.20348-SP0AMD64Intel64-Family-6-Model-85-Stepping-7-GenuineIntel
